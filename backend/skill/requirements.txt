@@ -1,0 +1,13 @@
+python-dotenv
+pypdf
+python-docx
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-chroma
+chromadb
+google-generativeai
+requests
+langchain_chroma
