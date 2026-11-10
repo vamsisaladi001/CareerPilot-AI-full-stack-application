@@ -11,3 +11,5 @@ chromadb
 google-generativeai
 requests
 langchain_chroma
+dj-database-url
+dj-database-url==3.1.2
